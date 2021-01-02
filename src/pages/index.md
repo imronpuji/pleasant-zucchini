@@ -7,7 +7,7 @@ sections:
     image: images/5.jpg
     content: 'selamat berkunjung di website smk albisri,'
     actions:
-      - label: Get Started
+      - label: Lihat lebih
         url: /docs
         style: primary
   - section_id: features
