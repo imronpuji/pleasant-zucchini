@@ -50,14 +50,6 @@ sections:
           - label: Learn More
             url: /showcase
             style: link
-  - section_id: cta
-    type: section_cta
-    title: The Title of The Call to Action Block
-    subtitle: This is an optional description for the call to action block.
-    actions:
-      - label: Get Started
-        url: /docs/getting-started/installation
-        style: primary
   - section_id: features
     type: section_grid
     col_number: three
