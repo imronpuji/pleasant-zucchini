@@ -64,6 +64,7 @@ sections:
       - dolor sit amet
     actions: []
     type: section_content
+    image: images/jamstack.svg
   - section_id: features-two-col
     type: section_grid
     title: Contoh layout
