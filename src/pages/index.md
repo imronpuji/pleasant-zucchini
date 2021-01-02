@@ -10,6 +10,36 @@ sections:
       - label: Lihat lebih
         url: /docs
         style: primary
+  - section_id: features
+    type: section_grid
+    col_number: three
+    grid_items:
+      - title: Visi
+        content: >-
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
+          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        actions:
+          - label: Get Started
+            url: /docs
+            style: link
+      - title: Misi
+        content: >-
+          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
+          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+        actions:
+          - label: View Posts
+            url: /blog
+            style: link
+      - title: Style Guide
+        content: >-
+          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
+          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
+          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+        actions:
+          - label: Learn More
+            url: /style-guide
+            style: link
   - section_id: text-img
     type: section_content
     image: images/jamstack.svg
@@ -66,36 +96,6 @@ sections:
         actions:
           - label: Learn More
             url: /showcase
-            style: link
-  - section_id: features
-    type: section_grid
-    col_number: three
-    grid_items:
-      - title: Visi
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Get Started
-            url: /docs
-            style: link
-      - title: Misi
-        content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
-        actions:
-          - label: View Posts
-            url: /blog
-            style: link
-      - title: Style Guide
-        content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
-        actions:
-          - label: Learn More
-            url: /style-guide
             style: link
 template: advanced
 ---
