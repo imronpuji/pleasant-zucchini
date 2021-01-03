@@ -38,7 +38,7 @@ sections:
           - label: View Posts
             url: /blog
             style: link
-      - title: lorem-ipsum
+      - title: Tujuan
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
         content: >
