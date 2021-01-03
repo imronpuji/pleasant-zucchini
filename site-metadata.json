@@ -2,12 +2,12 @@
     "palette": "blue",
     "header": {
         "title": "Libris",
-        "logo_img": "images/avatar.png",
+        "logo_img": "images/logo-al-bisri-1.jpg",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
         "nav_links": [
             {
-                "label": "Home",
+                "label": "Beranda",
                 "url": "/",
                 "style": "link",
                 "has_subnav": false
@@ -57,7 +57,7 @@
         ]
     },
     "footer": {
-        "content": "&copy; Imron",
+        "content": "&copy; Yayasan",
         "has_social": true,
         "social_links": [
             {

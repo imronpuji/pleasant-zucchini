@@ -4,8 +4,8 @@ sections:
   - section_id: hero
     type: section_hero
     title: SMK ALBISRI
-    image: images/5.jpg
-    content: 'selamat berkunjung di website smk albisri,'
+    image: images/bisri.jpg
+    content: selamat berkunjung di website Kami
     actions:
       - label: Lihat lebih
         url: /docs
@@ -16,55 +16,82 @@ sections:
     grid_items:
       - title: Visi
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus. Vivamus rhoncus mattis varius.
+          Menjadi Lembaga Dakwah dan Pendidikan Islam terkemuka dan modern dalam
+          mencerahkan dan mencerdaskan kehidupan bangsa guna membentuk
+          masyarakat Indonesia yang beriman, berilmu, beramal, dan bertaqwa
+          menuju izzul Islam wal muslimin
         actions:
           - label: Get Started
             url: /docs
             style: link
       - title: Misi
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Membina dan mengembangkan dakwah dan pendidikan Islam dalam arti yang
+          seluar-luasnya dengan semangat amar makruf nahi munkar.
+
+          Mengawal dan membela aqidah Islamiyah berdasarkan Al-Qurân dan Sunnah
+          Rasul.
+
+          Menegakkan nilai-nilai kemanusiaan sesuai ajaran Islam demi
+          kesejahteraan umat dan bangsa lahir dan batin.
         actions:
           - label: View Posts
             url: /blog
             style: link
+      - title: Tujuan
+        title_url: lorem-ipsum
+        image_alt: lorem-ipsum
+        content: >-
+          Mendidik pemuda-pemuda Indonesia untuk menjadi keder pembangunan
+          akhlak guna kesejahteraan Republik Indonesia.
+
+          Mendidik pemuda-pemuda Indonesia agar menjadi alat negara yang berjiwa
+          bersih dan suci.
+        actions:
+          - label: Lihat lebih
+            url: lorem-ipsum
+            style: link
+            icon_class: dev
+            new_window: false
+            no_follow: false
+            type: action
+        type: grid_item
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/diligent-eucalyptus.jpg
     image_position: left
-    title: Section dengan gambar
+    title: Sesi Diskusi
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
-      - label: View Demo
+      - label: Lihat lebih
         url: /docs/getting-started
         style: primary
-      - label: Get Started
-        url: /docs/getting-started
-        style: secondary
-  - title: ''
+  - title: Sesi Diskusi
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
     content: >-
 
-      ## Lorem ipsum
-
 
       Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
-    actions: []
+    actions:
+      - label: Lihat Lebih
+        url: lorem-ipsum
+        style: primary
+        icon_class: dev
+        new_window: false
+        no_follow: false
+        type: action
     type: section_content
-    image: images/jamstack.svg
+    image: images/elite-turtle.jpg
   - section_id: features-two-col
     type: section_grid
-    title: Contoh layout
-    subtitle: Contoh judul optioanl
+    title: Pencapaian
+    subtitle: ''
     col_number: two
     grid_items:
       - title: Prestasi
