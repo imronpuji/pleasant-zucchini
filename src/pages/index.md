@@ -58,7 +58,7 @@ sections:
         type: grid_item
   - section_id: text-img
     type: section_content
-    image: images/diligent-eucalyptus.jpg
+    image: images/elite-turtle.jpg
     image_position: left
     title: Sesi Diskusi
     content: >-
