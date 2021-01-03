@@ -58,7 +58,7 @@ sections:
         type: grid_item
   - section_id: text-img
     type: section_content
-    image: images/elite-turtle.jpg
+    image: images/download (1).jpg
     image_position: left
     title: Sesi Diskusi
     content: >-
