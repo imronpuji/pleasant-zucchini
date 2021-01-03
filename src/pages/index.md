@@ -83,7 +83,7 @@ sections:
     actions:
       - label: lorem-ipsum
         url: lorem-ipsum
-        style: link
+        style: secondary
         icon_class: dev
         new_window: false
         no_follow: false
