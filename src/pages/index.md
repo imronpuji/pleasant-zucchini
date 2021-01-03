@@ -70,7 +70,7 @@ sections:
     image: images/elite-turtle.jpg
   - section_id: features-two-col
     type: section_grid
-    title: Study Case
+    title: Pencapaian
     subtitle: ''
     col_number: two
     grid_items:
