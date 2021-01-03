@@ -26,8 +26,14 @@ sections:
             style: link
       - title: Misi
         content: >-
-          Vestibulum a nunc ut eros condimentum posuere. Nullam dapibus quis
-          nunc non interdum. Pellentesque tortor ligula, gravida ac commodo eu.
+          Membina dan mengembangkan dakwah dan pendidikan Islam dalam arti yang
+          seluar-luasnya dengan semangat amar makruf nahi munkar.
+
+          Mengawal dan membela aqidah Islamiyah berdasarkan Al-Qurân dan Sunnah
+          Rasul.
+
+          Menegakkan nilai-nilai kemanusiaan sesuai ajaran Islam demi
+          kesejahteraan umat dan bangsa lahir dan batin.
         actions:
           - label: View Posts
             url: /blog
