@@ -4,7 +4,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: SMK ALBISRI
-    image: images/5.jpg
+    image: images/bisri.jpg
     content: 'selamat berkunjung di website smk albisri,'
     actions:
       - label: Lihat lebih
