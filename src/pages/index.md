@@ -63,7 +63,7 @@ sections:
     image: images/elite-turtle.jpg
   - section_id: features-two-col
     type: section_grid
-    title: Contoh layout
+    title: Study Case
     subtitle: ''
     col_number: two
     grid_items:
