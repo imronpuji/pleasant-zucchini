@@ -33,7 +33,7 @@ sections:
             style: link
   - section_id: text-img
     type: section_content
-    image: images/jamstack.svg
+    image: images/diligent-eucalyptus.jpg
     image_position: left
     title: Section dengan gambar
     content: >-
