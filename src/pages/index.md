@@ -41,11 +41,12 @@ sections:
       - title: Tujuan
         title_url: lorem-ipsum
         image_alt: lorem-ipsum
-        content: >
+        content: >-
+          Mendidik pemuda-pemuda Indonesia untuk menjadi keder pembangunan
+          akhlak guna kesejahteraan Republik Indonesia.
 
-
-          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Mendidik pemuda-pemuda Indonesia agar menjadi alat negara yang berjiwa
+          bersih dan suci.
         actions:
           - label: Lihat lebih
             url: lorem-ipsum
