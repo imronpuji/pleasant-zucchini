@@ -66,7 +66,7 @@ sections:
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
       consectetur lobortis.
     actions:
-      - label: View Demo
+      - label: Lihat lebih
         url: /docs/getting-started
         style: primary
   - title: Sesi Diskusi
