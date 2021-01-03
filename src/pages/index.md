@@ -42,7 +42,7 @@ sections:
     type: section_content
     image: images/diligent-eucalyptus.jpg
     image_position: left
-    title: Section dengan gambar
+    title: Sesi Diskusi
     content: >-
       Nam pulvinar ante eu ultricies volutpat. Sed nulla nibh, dapibus sit amet
       cursus quis, fringilla nec sapien. Vestibulum imperdiet nunc bibendum
