@@ -69,9 +69,6 @@ sections:
       - label: View Demo
         url: /docs/getting-started
         style: primary
-      - label: ''
-        url: /docs/getting-started
-        style: secondary
   - title: Sesi Diskusi
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
