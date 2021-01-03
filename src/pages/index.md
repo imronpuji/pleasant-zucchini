@@ -60,7 +60,7 @@ sections:
       eiusmod tempor incididunt ut labore et dolore magna aliqua.
     actions: []
     type: section_content
-    image: images/jamstack.svg
+    image: images/elite-turtle.jpg
   - section_id: features-two-col
     type: section_grid
     title: Contoh layout
