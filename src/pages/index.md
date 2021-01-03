@@ -54,7 +54,7 @@ sections:
       - label: Get Started
         url: /docs/getting-started
         style: secondary
-  - title: ''
+  - title: Sesi Diskusi
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     image_position: left
