@@ -69,7 +69,7 @@ sections:
       - label: View Demo
         url: /docs/getting-started
         style: primary
-      - label: Get Started
+      - label: ''
         url: /docs/getting-started
         style: secondary
   - title: Sesi Diskusi
